@@ -2,3 +2,6 @@ Carl Justine Oyales
 
 Motivation:
 - Upskilling and be up to date to the current tech stack used in the industry
+
+Work experience: 
+- Currently working as a frontend developer that also handles some backend tasks
